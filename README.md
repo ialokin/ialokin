@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ialokin
 - 👀 I’m interested in open source software and development in general.
-- 🌱 I’m currently learning something new every week.
-- 💞️ I’m looking to collaborate on this experience.
+- 🌱 I’m currently learning something new every day.
+- 💞️ I’m happy to collaborate on this experience.
 - 📫 Contact me at ialokin.no
 
 <!---
